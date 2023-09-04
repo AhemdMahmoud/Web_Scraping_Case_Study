@@ -99,6 +99,7 @@ for i in range(534):
       print ("Done")
 
 df
+df.to_csv("/content/sample_data/wuzzuf.csv") 
 
 
 
